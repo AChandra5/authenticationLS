@@ -1,0 +1,45 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+body{
+    background: black;
+}
+header{
+    height: 87px;
+/* width: 1728px; */
+left: 0px;
+top: 0px;
+border-radius: 0px;
+/* background: black; */
+}
+
+.nav-link{
+    color: white;
+}
+.navbar{
+    border-bottom:1px solid white
+}
+input[type=text] {
+    background: transparent;
+    border: none;
+    border-bottom: 1px solid #837a7a;
+}
+.form-container{
+    max-width: 700px;
+    margin: auto;
+    color: white;
+}
+.details-container{
+    margin: 25px;
+}
+.lead{
+color: white;
+}
+.feedback{
+    display: none;
+}
+/* .details-container{
+    display:none
+} */
